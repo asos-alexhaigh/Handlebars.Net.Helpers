@@ -13,7 +13,7 @@
     </PropertyGroup>
     
     <ItemGroup>
-	    <PackageReference Include="System.Xml.XmlDocument" Version="4.3.0" />
+	    <PackageReference Include="System.Xml.XmlDocument" Version="4.3.1" />
 
 		<ProjectReference Include="..\Handlebars.Net.Helpers.Core\Handlebars.Net.Helpers.Core.csproj" />
         <ProjectReference Include="..\Handlebars.Net.Helpers\Handlebars.Net.Helpers.csproj" />
